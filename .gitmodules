@@ -1,3 +1,6 @@
 [submodule "libraries/common/rapidjson"]
 	path = libraries/common/rapidjson
 	url = https://github.com/MazingR/liveemu_external_fork_rapidjson.git
+[submodule "libraries/common/freetype"]
+	path = libraries/common/freetype
+	url = http://git.savannah.gnu.org/cgit/freetype/freetype2.git

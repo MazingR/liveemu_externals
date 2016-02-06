@@ -1,0 +1,3 @@
+[submodule "libraries/common/rapidjson"]
+	path = libraries/common/rapidjson
+	url = https://github.com/MazingR/liveemu_external_fork_rapidjson.git

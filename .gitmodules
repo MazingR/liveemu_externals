@@ -13,3 +13,6 @@
 [submodule "emulators/common/dolphin"]
 	path = emulators/common/dolphin
 	url = https://github.com/MazingR/liveemu_external_fork_dolphin.git
+[submodule "libraries/common/sdl"]
+	path = libraries/common/sdl
+	url = https://github.com/MazingR/liveemu_external_fork_sdl2.git

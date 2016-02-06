@@ -16,3 +16,9 @@
 [submodule "libraries/common/sdl"]
 	path = libraries/common/sdl
 	url = https://github.com/MazingR/liveemu_external_fork_sdl2.git
+[submodule "emulators/common/mame"]
+	path = emulators/common/mame
+	url = https://github.com/MazingR/liveemu_external_fork_mame.git
+[submodule "emulators/common/mame-builtools"]
+	path = emulators/common/mame-builtools
+	url = https://github.com/mamedev/buildtools-old.git

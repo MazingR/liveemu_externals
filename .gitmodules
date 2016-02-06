@@ -22,6 +22,3 @@
 [submodule "emulators/common/mame-builtools"]
 	path = emulators/common/mame-builtools
 	url = https://github.com/mamedev/buildtools-old.git
-[submodule "emulators/common/mame-buildtools-x64"]
-	path = emulators/common/mame-buildtools-x64
-	url = https://github.com/mamedev/buildtools_x64.git

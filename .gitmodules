@@ -4,3 +4,12 @@
 [submodule "libraries/common/freetype"]
 	path = libraries/common/freetype
 	url = http://git.savannah.gnu.org/cgit/freetype/freetype2.git
+[submodule "emulators/windows/demul"]
+	path = emulators/windows/demul
+	url = https://github.com/MazingR/liveemu_external_fork_demul.git
+[submodule "emulators/windows/yabause"]
+	path = emulators/windows/yabause
+	url = https://github.com/MazingR/liveemu_external_fork_yabause.git
+[submodule "emulators/common/dolphin"]
+	path = emulators/common/dolphin
+	url = https://github.com/MazingR/liveemu_external_fork_dolphin.git

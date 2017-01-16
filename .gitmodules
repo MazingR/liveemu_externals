@@ -25,3 +25,6 @@
 [submodule "libraries/common/curl"]
 	path = libraries/common/curl
 	url = https://github.com/MazingR/liveemu_external_fork_curl.git
+[submodule "libraries/common/mbedtls"]
+	path = libraries/common/mbedtls
+	url = https://github.com/ARMmbed/mbedtls.git

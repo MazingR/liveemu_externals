@@ -28,3 +28,6 @@
 [submodule "libraries/common/mbedtls"]
 	path = libraries/common/mbedtls
 	url = https://github.com/ARMmbed/mbedtls.git
+[submodule "libraries/common/imgui"]
+	path = libraries/common/imgui
+	url = https://github.com/MazingR/liveemu_external_fork_imgui.git

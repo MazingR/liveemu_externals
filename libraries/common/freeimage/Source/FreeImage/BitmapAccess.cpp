@@ -35,7 +35,7 @@
 
 
 #define DEFAULT_HEAP 0
-#include "../../../../../liveemu/src/modules/common/mallochook.hpp"
+#include "../../../../../liveemu/src/frontend/modules/common/mallochook.hpp"
 
 #include "FreeImage.h"
 #include "FreeImageIO.h"

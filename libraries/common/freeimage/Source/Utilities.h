@@ -53,7 +53,7 @@
 #include <memory>
 
 #define DEFAULT_HEAP 0
-#include "../../../../../liveemu/src/modules/common/mallochook.hpp"
+#include "../../../../../liveemu/src/frontend/modules/common/mallochook.hpp"
 
 // ==========================================================
 //   Bitmap palette and pixels alignment
